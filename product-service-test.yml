@@ -1,2 +1,4 @@
 product:
  product-name: nombre producto Test
+server:
+ port: 8082
